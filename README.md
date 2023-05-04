@@ -1,7 +1,7 @@
 
-<h1 align="center">G'day 👋, my name is George</h1>
+<h1 align="center">Hi! 👋, my name is George</h1>
 
-<h3 align="center">A software engineer currently in development</h3>
+<h3 align="center">A software engineer currently in development (and most likely will be forever)</h3>
 
 - 🤝 An apprentice software engineer with **Holiday Extras** learning the ways of code with **Makers**.
 

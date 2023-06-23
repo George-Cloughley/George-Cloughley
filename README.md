@@ -3,7 +3,7 @@
 
 <h3 align="center">A software engineer currently in development (and most likely will be forever)</h3>
 
-- 🤝 An apprentice software engineer with **Holiday Extras**.
+🤝 Apprentice Software Engineer @ **Holiday Extras**.
 
 <h1 align="center"></h1>
 
